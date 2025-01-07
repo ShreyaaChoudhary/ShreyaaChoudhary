@@ -27,5 +27,12 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyaachoudhary&show_icons=true&theme=radical)  
 
 
-<--### 🖋️ What I'm Up To:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F759F7&width=435&lines=Hello+there!+I'm+Mayank.;Passionate+Developer+%7C+Gamer+%7C+Writer.;Lover+of+AI+%26+Web+Development.;Welcome+to+my+profile!)](https://git.io/typing-svg)-->
+### 🤩 Welcome to My Zone!
+![Cool GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
+
+### 🚀 Programmer Life:
+![Meme](https://i.imgur.com/d6YB6ek.jpeg)
+
+### 🧑‍💻Coding Right Now?
+![Coding Activity](https://activity-graph.herokuapp.com/graph?username=shreyaachoudhary&theme=react-dark)
+
