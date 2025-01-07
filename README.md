@@ -30,9 +30,5 @@
 ### 🤩 Welcome to My Zone!
 ![Cool GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
 
-### 🚀 Programmer Life:
-![Meme](https://i.imgur.com/d6YB6ek.jpeg)
 
-### 🧑‍💻Coding Right Now?
-![Coding Activity](https://activity-graph.herokuapp.com/graph?username=shreyaachoudhary&theme=react-dark)
 
