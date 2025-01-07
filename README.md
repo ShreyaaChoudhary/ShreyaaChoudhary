@@ -26,4 +26,8 @@
 ## 📊 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyaachoudhary&show_icons=true&theme=radical)  
 
+### 🐍 Watch the Snake Eat My Contributions!
+![Snake Game](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
 
+### 🖋️ What I'm Up To:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F759F7&width=435&lines=Hello+there!+I'm+Mayank.;Passionate+Developer+%7C+Gamer+%7C+Writer.;Lover+of+AI+%26+Web+Development.;Welcome+to+my+profile!)](https://git.io/typing-svg)
