@@ -15,8 +15,8 @@
 ## 🛠️ Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)  
-![Java](https://img.shields.io/badge/Java-20232A?style=flat-square&logo=react&logoColor=61DAFB)  
+![Java](https://img.shields.io/badge/Java-20232A?style=flat-square&logo=react&logoColor=61DAFB) 
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![PHP](https://img.shields.io/badge/PHP-20232A?style=flat-square&logo=react&logoColor=61DAFB)  
 ![Node](https://img.shields.io/badge/Node-20232A?style=flat-square&logo=react&logoColor=61DAFB)  
 ![Angular](https://img.shields.io/badge/Angular-20232A?style=flat-square&logo=react&logoColor=61DAFB)  
